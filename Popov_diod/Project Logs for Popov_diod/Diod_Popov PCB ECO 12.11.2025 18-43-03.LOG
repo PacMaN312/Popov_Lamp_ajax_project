@@ -1,0 +1,10 @@
+Added Component: Designator=U6(COM-11405_SPK)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Sparkfun"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "COM-11405"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=R1-2
+Added Pin To Net: NetName=CLK Pin=R2-2
+Added Pin To Net: NetName=3.3V Pin=R3-2
+Added Member To Class: ClassName=Sheet1 Member=Component U6 Display

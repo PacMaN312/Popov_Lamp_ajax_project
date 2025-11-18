@@ -50,15 +50,15 @@ Configuration2_Name1=General
 Configuration2_Item1=TemplateFilename=Board Stack Report.XLT
 
 [PublishSettings]
-OutputFilePath2=C:\Users\Public\Documents\Altium\Ajax_Projects\.PDF
+OutputFilePath2=C:\Users\Public\Documents\Altium\Popov_diod\.PDF
 ReleaseManaged2=0
-OutputBasePath2=C:\Users\Public\Documents\Altium\Ajax_Projects\
+OutputBasePath2=C:\Users\Public\Documents\Altium\Popov_diod\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=Ajax_Projects.pdf
+OutputFileName2=Popov_diod.pdf
 OutputFileNameMulti2=
 UseOutputNameForMulti2=1
 OutputFileNameSpecial2=
@@ -129,7 +129,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\Public\Documents\Altium\Ajax_Projects\.PDF
+RelativeOutputPath2=C:\Users\Public\Documents\Altium\Popov_diod\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=CLK Pin=U1-1
+Removed Pin From Net: NetName=DIO Pin=U1-2
+Added Pin To Net: NetName=3.3V Pin=R1-2
+Added Pin To Net: NetName=CLK Pin=R2-2
+Added Pin To Net: NetName=PD5 Pin=R3-2
+Added Pin To Net: NetName=CLK Pin=U1-14
+Added Pin To Net: NetName=DIO Pin=U1-15

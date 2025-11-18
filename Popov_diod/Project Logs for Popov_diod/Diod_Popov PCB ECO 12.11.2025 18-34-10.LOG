@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=E Pin=DS1-1
+Removed Pin From Net: NetName=D Pin=DS1-2
+Removed Pin From Net: NetName=DP Pin=DS1-3
+Removed Pin From Net: NetName=C Pin=DS1-4
+Removed Pin From Net: NetName=G Pin=DS1-5
+Removed Pin From Net: NetName=Grid4 Pin=DS1-6
+Removed Pin From Net: NetName=B Pin=DS1-7
+Removed Pin From Net: NetName=Grid3 Pin=DS1-8
+Removed Pin From Net: NetName=Grid2 Pin=DS1-9
+Removed Pin From Net: NetName=F Pin=DS1-10
+Removed Pin From Net: NetName=A Pin=DS1-11
+Removed Pin From Net: NetName=Grid1 Pin=DS1-12
+Removed Pin From Net: NetName=CLK Pin=U1-14
+Removed Pin From Net: NetName=DIO Pin=U1-15
+Removed Member From Class: ClassName=Sheet1 Member=DS1
+Add component: Footprint Not Found COM-11405_SPK
+Added Pin To Net: NetName=5 V Pin=R2-2
+Added Pin To Net: NetName=3.3V Pin=R3-2
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U6-5
+Add Pin To Net: Unknown Pin: Pin U6-6
+Add Pin To Net: Unknown Pin: Pin U6-7
+Add Pin To Net: Unknown Pin: Pin U6-8
+Add Pin To Net: Unknown Pin: Pin U6-9
+Add Pin To Net: Unknown Pin: Pin U6-10
+Add Pin To Net: Unknown Pin: Pin U6-11
+Add Pin To Net: Unknown Pin: Pin U6-12
+Added Pin To Net: NetName=PC4 Pin=Q1-2
+Added Pin To Net: NetName=PC4 Pin=R1-2
+Added Pin To Net: NetName=PC4 Pin=U1-14
+Added Net: Name=PC4
+Added Pin To Net: NetName=PC5 Pin=Q2-2
+Added Pin To Net: NetName=PC5 Pin=R3-2
+Added Pin To Net: NetName=PC5 Pin=U1-15
+Added Net: Name=PC5
+Add Class Member: Failed to add class member : Component U6 Display

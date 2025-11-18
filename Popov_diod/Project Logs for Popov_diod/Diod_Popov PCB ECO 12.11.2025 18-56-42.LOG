@@ -1,0 +1,23 @@
+Added Component: Designator=D1(LED_LDQ-M3604RI)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LDQ-M3604RI/Lumex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lumex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LDQ-M3604RI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LDQ-M3604RI/Lumex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=E Pin=D1-1
+Added Pin To Net: NetName=D Pin=D1-2
+Added Pin To Net: NetName=DP Pin=D1-3
+Added Pin To Net: NetName=C Pin=D1-4
+Added Pin To Net: NetName=G Pin=D1-5
+Added Pin To Net: NetName=Grid4 Pin=D1-6
+Added Pin To Net: NetName=B Pin=D1-7
+Added Pin To Net: NetName=Grid3 Pin=D1-8
+Added Pin To Net: NetName=Grid2 Pin=D1-9
+Added Pin To Net: NetName=F Pin=D1-10
+Added Pin To Net: NetName=A Pin=D1-11
+Added Pin To Net: NetName=Grid1 Pin=D1-12
+Added Pin To Net: NetName=PC4 Pin=R1-2
+Added Pin To Net: NetName=5 V Pin=R2-2
+Added Pin To Net: NetName=PC5 Pin=R3-2
+Added Member To Class: ClassName=Sheet1 Member=Component D1

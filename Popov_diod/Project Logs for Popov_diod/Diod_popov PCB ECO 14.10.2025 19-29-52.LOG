@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=3.3V New Net Name=GND
+Added Member To Class: ClassName=Sheet1 Member=Component J1 Type-C
+Added Member To Class: ClassName=Sheet1 Member=Component R4 1K
+Added Rule: Name=Schematic Supply Nets_2
