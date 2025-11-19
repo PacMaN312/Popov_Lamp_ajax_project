@@ -1,0 +1,55 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\pacma\Desktop\Popov_Lamp_ajax_project\Popov_diod\Diod_Popov.PcbDoc
+Date     : 19.11.2025
+Time     : 13:25:05
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Q3-3(837.342mil,435.77mil) on Top Layer And Pad BT1-1(1153.804mil,522.04mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U5-13(1200.46mil,1186.434mil) on Top Layer And Pad C2-2(1831.672mil,1260.908mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U2-1(778.216mil,2304.034mil) on Multi-Layer And Pad C4-2(1188.056mil,2308.438mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C5-2(2296.522mil,2249.406mil) on Top Layer And Pad J1-B12(2500mil,2161.418mil) on Top Layer 
+Rule Violations :4
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=27.559mil) (Preferred=19.685mil) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=196.85mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=1.968mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=3.937mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10.055mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 4
+Waived Violations : 0
+Time Elapsed        : 00:00:01
